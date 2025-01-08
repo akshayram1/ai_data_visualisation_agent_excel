@@ -34,6 +34,53 @@ An intelligent Streamlit-powered application that serves as your personal data v
 - Together AI API Key (Get it [here](https://api.together.ai/signin))
 - E2B API Key (Get it [here](https://e2b.dev/))
 
+### Platform Overview
+
+#### Together AI Platform
+Together AI is a comprehensive cloud platform for generative AI development that powers this application with:
+- Access to 200+ generative AI models
+- High-performance model inference
+- Advanced optimizations:
+  - Transformer-optimized kernels
+  - Speculative decoding
+  - GPU cluster management
+- Key benefits:
+  - Fast inference speeds
+  - Cost-effective processing
+  - Scalable infrastructure
+  - Enterprise-grade reliability
+
+#### E2B Development Platform
+E2B.dev provides the secure runtime environment for our AI-generated visualizations:
+- Isolated cloud sandboxes for code execution
+- Multi-language support
+- Secure execution environment for:
+  - Data analysis operations
+  - Visualization rendering
+  - Code interpretation
+- Key features:
+  - Real-time code execution
+  - Isolated environments
+  - Automatic resource management
+  - Built-in security measures
+
+### API Key Setup
+1. **Together AI Setup**
+   - The API key enables access to LLM models
+   - Free tier includes:
+     - 5M tokens per month
+     - Access to all base models
+     - Rate limit: 10 requests/minute
+   - Usage monitoring available in dashboard
+
+2. **E2B Setup**
+   - Required for serverless runtime environment
+   - Free tier includes:
+     - 100 hours of compute time
+     - Standard processing power
+     - Basic monitoring
+   - Set resource limits in dashboard
+
 ### Installation
 
 1. **Clone the Repository**
