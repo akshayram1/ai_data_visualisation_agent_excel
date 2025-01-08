@@ -2,6 +2,10 @@
 
 An intelligent Streamlit-powered application that serves as your personal data visualization expert. This tool combines the power of Large Language Models (LLMs) with data analysis capabilities to help you understand and visualize your data through natural language interactions.
 
+## 🎯 Demo
+![AI Data Visualization Agent Demo](demo.png)
+*AI-powered data visualization interface in action*
+
 ## 🌟 Key Features
 
 ### 🗣️ Natural Language Interface
